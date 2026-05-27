@@ -1,0 +1,8 @@
+scheduler,chunk_size,time_s,speedup
+static_default,9.72814,1.0000
+static_chunk1,5.8228,1.6707
+dynamic_chunk1,5.7556,1.6902
+dynamic_chunk8,5.6592,1.7190
+dynamic_chunk32,5.7733,1.6850
+guided_chunk1,7.7820,1.2501
+guided_chunk8,7.7624,1.2532
